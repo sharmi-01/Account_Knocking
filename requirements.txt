@@ -1,0 +1,17 @@
+Modules :
+selenium==3.141.0
+webdriver_manager==3.4.2
+colorama==0.4.4
+validate_email_address==1.0.0
+Pyautogui==0.9.54
+
+Commands :
+pip install selenium
+pip install webdriver_manager
+pip install colorama
+pip install validate_email_address
+pip install pyautogui
+
+Chrome Versions
+Current version "120.0.6099.130 "
+Older version "114.0.5735.133"
