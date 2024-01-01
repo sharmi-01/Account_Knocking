@@ -1,8 +1,7 @@
-# Saptanglabs
 
-## Account Knocking Using Python
+# Saptanglabs Account Knocking Python Script
 
-Python scripting for account knocking for the below websites:
+This Python script facilitates account knocking for the following websites:
 
 1. Spotify
 2. Pinterest
@@ -17,36 +16,52 @@ Python scripting for account knocking for the below websites:
 2. Pyautogui
 3. Validate_email
 
-## Environment
+## Development Environment
 
 Developed using PyCharm EDU
 
-## Steps to Install
+## Installation Steps
 
-### Step 1:
-Install PyCharm.
+### Step 1: Install PyCharm
 
-### Step 2:
-Download the final_code.py script for the new version of Chrome.
+Ensure that PyCharm is installed on your system.
 
-### Step 3:
-Download the Olderversion_final_code.py script for the old version of Chrome.
+### Step 2: Download the Script
 
-### Step 4:
+Download the `final_code.py` script for the new version of Chrome from the repository.
+
+### Step 3: Download the Old Version Script
+
+If using an old version of Chrome, download the `Olderversion_final_code.py` script.
+
+### Step 4: Open the Script
+
 Open the script in the PyCharm environment.
 
-### Step 5:
+### Step 5: Open Terminal
+
 Click on the "New Terminal" in PyCharm.
 
-### Step 6:
-Add the required emails.
+### Step 6: Add Emails
 
-### Step 7:
-Type python <filename> in the terminal to run the code.
+Add the required emails to the script.
 
-### Step 8:
-You can see available and unavailable accounts in the terminal as output.
+### Step 7: Run the Script
+
+Type the following command in the terminal to run the code:
+
+```bash
+python <filename>
+```
+
+Replace `<filename>` with the appropriate script name.
+
+### Step 8: View Output
+
+Check the terminal for available and unavailable accounts.
 
 ## Requirements
 
-For the requirements, refer to requirements.txt.
+Ensure you have the necessary dependencies installed by referring to the `requirements.txt` file.
+
+---
