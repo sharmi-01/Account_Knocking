@@ -27,10 +27,10 @@ Developed using PyCharm EDU
 Install PyCharm.
 
 ### Step 2:
-Download the final_code script for the new version of Chrome.
+Download the final_code.py script for the new version of Chrome.
 
 ### Step 3:
-Download the Olderversion_final_code script for the old version of Chrome.
+Download the Olderversion_final_code.py script for the old version of Chrome.
 
 ### Step 4:
 Open the script in the PyCharm environment.
