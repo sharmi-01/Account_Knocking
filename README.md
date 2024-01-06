@@ -9,6 +9,7 @@ This Python script facilitates account knocking for the following websites:
 4. Amazon Prime
 5. BBC
 6. Scroll
+7. Ebay
 
 ## Technologies Used
 
