@@ -1,5 +1,5 @@
 
-# Saptanglabs Account Knocking Python Script
+# Account Knocking Python Script
 
 This Python script facilitates account knocking for the following websites:
 
